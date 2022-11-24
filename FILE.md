@@ -27,4 +27,6 @@
 | bug-fix              | 11     | git checkout bug-fix                                                              |
 | bug-fix              | 11     | git merge bug-fix-experimental                                                    |     
 | bug-fix              | 11     | git add FILE.md                                                                   |
-| bug-fix              | 11     | git commit -m "Edit FILE.md with git checkout, merge, add & commit"               |
+| bug-fix              | 11     | git commit -m "Commit 11: Edit FILE.md with git checkout, merge, add & commit"    |
+| bug-fix              | 12     | git add FILE.md                                                                   |
+| bug-fix              | 12     | git commit -m "Commit 12: Edit FILE.md with git add & commit"                     |
