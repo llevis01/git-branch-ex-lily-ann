@@ -15,5 +15,7 @@
 | bug-fix | 5      | git merge main                                                                    |
 | bug-fix | 5      | git add FILE.md                                                                   |
 | bug-fix | 5      | git commit -m "Commit 5: Edit FILE.md with git merge, add & commit"               |
+| bug-fix | 6      | git add FILE.md                                                                   |
+| bug-fix | 6      | git commit -m "Commit 6: Edit FILE.md with git add & commit"                      |
 
 
