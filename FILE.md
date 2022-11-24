@@ -32,10 +32,10 @@
 | bug-fix              | 11     | git add FILE.md                                                                   |
 | bug-fix              | 11     | git commit -m "Commit 11: Edit FILE.md with git checkout, merge, add & commit"    |
 | bug-fix              | 12     | git add FILE.md                                                                   |
-| bug-fix              | 12     | git commit -m "Commit 12: Edit FILE.md with git add & commit"                     |                                                                |
+| bug-fix              | 12     | git commit -m "Commit 12: Edit FILE.md with git add & commit"                     |
 | main                 | 13     | git checkout main                                                                 |
 | main                 | 13     | git merge bug-fix                                                                 |         
 | main                 | 13     | git add FILE.md                                                                   |
-| main                 | 13     | git commit -m "Commit 13: Edit FILE.md with git checkout, merge, add & commit"    |                  |
-
+| main                 | 13     | git commit -m "Commit 13: Edit FILE.md with git checkout, merge, add & commit"    |
+| main                 | 14     | git add git-graph.png FILE.md                                                     |
 
