@@ -11,3 +11,5 @@
 | bug-fix-experimental | 7      | git checkout -b bug-fix-experimental 1b72ca1                                      |
 | bug-fix-experimental | 7      | git add FILE.md                                                                   |
 | bug-fix-experimental | 7      | git commit -m "Commit 7: Edit FILE.md with git checkout, add & commit"            |
+| bug-fix-experimental | 8      | git add FILE.md                                                                   |
+| bug-fix-experimental | 8      | git commit -m "Commit 8: Edit FILE.md with git add & commit"                      |
