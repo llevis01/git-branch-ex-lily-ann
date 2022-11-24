@@ -13,3 +13,5 @@
 | bug-fix-experimental | 7      | git commit -m "Commit 7: Edit FILE.md with git checkout, add & commit"            |
 | bug-fix-experimental | 8      | git add FILE.md                                                                   |
 | bug-fix-experimental | 8      | git commit -m "Commit 8: Edit FILE.md with git add & commit"                      |
+| bug-fix-experimental | 9      | git add FILE.md                                                                   |
+| bug-fix-experimental | 9      | git commit -m "Commit 9: Edit FILE.md with git add & commit"                      |
